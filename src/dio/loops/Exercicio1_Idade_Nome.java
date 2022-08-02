@@ -8,7 +8,7 @@ o primeiro representando o nome do aluno e o segundo representando a sua idade.
 // CTRL + D duplica linha
     public class Exercicio1_Idade_Nome {
         public static void main(String[] args) {
-            Scanner scan = new Scanner(System.in);
+            Scanner scan = new Scanner(System.in); //Abertura da entrada de fluxo de dados através do teclado
 
             String nome;
             int idade;
